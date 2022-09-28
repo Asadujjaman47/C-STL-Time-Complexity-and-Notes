@@ -1,0 +1,98 @@
+explainPair:
+
+1 3
+1 4 3
+5
+
+explainVector:
+
+1 1
+
+2 
+
+2 
+
+3 
+
+1 2 2 3 4 
+
+1 2 2 3 4 
+
+1 2 2 3 4 
+
+2
+
+1
+
+explainList:
+
+6 5 2 4 
+
+explainDeque:
+
+4 1 
+
+explainStack:
+
+5
+3
+4
+0
+
+
+explainQueue:
+
+9
+1
+2
+
+explainPQ:
+
+10
+8
+2
+
+explainSet:
+
+
+
+explainMultiSet:
+
+
+
+explainUSet:
+
+
+
+explainMap:
+
+1 2
+2 4
+3 1
+2
+1
+4
+4
+
+
+explainMultiSet:
+
+
+
+explainExtra:
+
+9765532
+
+4 1
+2 1
+1 2
+
+
+123
+132
+213
+231
+312
+321
+
+
